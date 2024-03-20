@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category_id: 1
+  question_trend_id: 1
+  year_id: 1
+  question_content: MyText
+
+two:
+  category_id: 1
+  question_trend_id: 1
+  year_id: 1
+  question_content: MyText
