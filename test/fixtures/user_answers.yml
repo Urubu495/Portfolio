@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  question: one
+  choice: one
+  is_correct: false
+  answered_at: 2024-03-20 13:39:19
+
+two:
+  user: two
+  question: two
+  choice: two
+  is_correct: false
+  answered_at: 2024-03-20 13:39:19

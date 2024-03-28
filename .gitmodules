@@ -1,0 +1,3 @@
+[submodule "PyMuPDF"]
+	path = PyMuPDF
+	url = https://github.com/pymupdf/PyMuPDF
